@@ -1,0 +1,23 @@
+---
+title: "LH_DiseaseEcology_Fall2025"
+author: "Laura Hooper"
+format: html
+editor: visual
+---
+
+## 8/25/2025
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/clipboard-72126728.png){width="281"}
+
+The disease triad showing interaction between host, pathogen, and environment.
