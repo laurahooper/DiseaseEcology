@@ -36,3 +36,157 @@ Worksheet 2: Sample size for disease detection
 
         A disease with lower prevalence will require a higher sample size than a disease with higher prevalence, even with the increased CI.
 3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \< 1%.
+
+------------------------------------------------------------------------
+
+## Midterm 10/7/2025
+
+FORY 7200
+
+Disease Ecology Midterm
+
+**1**. True or False. If false, explain why the statement is incorrect:              (**12 points**)
+
+a\. Compared to macroparasites, microparasites have a shorter generation time and do not reproduce within the host.
+
+**False, microparasites have a high rate of reproduction within the host.**
+
+b\. Using disease models, we can make accurate predictions of how a disease will spread in a real-world host population. 
+
+**False, models cannot predict with certainty**
+
+c\. Chagas disease is a protozoal disease that is commonly transmitted by the triatomine bug (Kissing bug). It can also be transmitted by consumption of contaminated food or beverages (feces of infected triatomine bugs). Chagas disease is therefore a contagious disease.
+
+**False, it is infectious**
+
+d\. Epizootic Hemorrhagic disease always causes severe outbreaks in white-trailed deer populations across the US, resulting in high mortalities. 
+
+**False, there is low mortality in the southeast and more severe in the north.**
+
+e\. White-tailed deer infected with brain worm (*Parelophostrongylus tenuis*) rarely exhibit any symptoms or clinical signs. But infected white-tailed deer pass infectious larvae through their feces. White-tailed deer with brain worms can therefore be described as infected, diseased and infectious. 
+
+**False, the host passes larvae through feces, it is infected but not diseased.**
+
+f\. The deer mouse (*Peromyscus maniculatus*) infected with Sin Nombre Virus do not show any clinical signs, but excrete the virus in their urine, feces and saliva. Humans get infected via aerosolized droppings of an infected rodent. The illness caused by Sin Nombre virus in humans is called Hantavirus Pulmonary Syndrome (HPS). HPS is therefore a vector-transmitted disease.
+
+False, it is zoonotic but not vector transmitted.
+
+2\. Compare and contrast the two measures of frequency of disease: Prevalence and incidence.   (**5 points**) 
+
+Prevalence measures the number of infected animals as a proportion of the total population to tell you how many animals have the disease at a certain point in time. Incidence only considers the number of new cases in reference to the number of susceptible hosts at a certain point in time, it measures risk.  
+
+3\. Match the following                                                                (**6 points**)
+
+1.  Blackhead disease  e. Disease caused by protozoa
+2.  A pathogen invading host tissues  a. Infection
+3.  Brain worm in white-tailed deer  c. Brain worm infection in moose
+4.  β  f. effective contact rate
+5.  Rabbit hemorrhagic disease  d. Disease caused by virus
+6.  White nose syndrome
+7.  Disease  b. Signs of illness
+
+4\. Moose can get infected by consuming a gastropod infected with *Parelaphostrongylus tenuis* larvae. Infected moose exhibit clinical signs like weakness, incoordination, circling, paralysis, and eventual death. But moose are unable to propagate the parasite. Such hosts are called [dead end hosts]{.underline}.        (**2 points**)
+
+5\.
+
+a\) Calculate the average recovery rate (γ) for Measles. Average infectious period for measles is 8 days.                                                                       (**2 points**) 
+
+ γ = 1/8 or 0.125/day
+
+b) Calculate the average recovery rate (γ) for Rotavirus. Average infectious period for Rotavirus is 1-3 weeks, average of 2 weeks.                                              (**2 points**) 
+
+γ = 1/2 or 0.5/week
+
+c\) The R~0~ for measles is estimated at 15 and 17 for rotavirus. Calculate β for both diseases.                                                                         (**2 points**) 
+
+Measles: 15 = β / 0.125    β = 1.875
+
+Rotavirus: 17 =  β /0.5       β = 8.5
+
+d\) Calculate R~eff~ for a measles outbreak in a population with 80% measles vaccination coverage.                                                                              (**3 points**) 
+
+0.8 = 1/R   Reff= 1.25
+
+6\. For any transmissible disease, which of the following host states are possible? (**6 points**)
+
+1.   Infected but not diseased
+
+When a host is infected but not diseased, it is a carrier. An example of this is tuberculosis in humans.
+
+2.  Infected and diseased
+
+It is common for infected hosts to also be diseased. An example of this is COVID 19.
+
+3.  Not infected but diseased
+
+Not possible, the pathogen must invade (infect) the host to cause disease.
+
+For each state, explain your reasoning and support your answer with at least one example from human or wildlife disease systems. If you believe a particular state is *not possible*, justify why with clear reasoning.
+
+7\. Estimate the incubation period for Campylobacteriosis and Norovirus gastroenteritis from the following Epidemic curves.                                                 (**4 points**)
+
+Campylobacter: 4 days
+
+Norovirus: 48 hours
+
+8\. In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extinction due to disease outbreaks.                                                                   (20 points)
+
+The pathogen causing these mass mortality events in the Saiga antelope is a commensal bacteria in the nasal passage. This mainly effects females in calving aggregations that are already stressed. Under high temperature and humidity conditions, this leads to acute hemorrhagic septicemia and mass mortality. Since the bacteria is commensal, not much can be done in terms of elimination of the pathogen or vaccination of the host. Since females birth large calve, and often two at a time, the population is able to recover from these events. However, conservation strategies like reducing hunting threats or other disease threats can allow the population to better recover from this specific event.
+
+9\. In his 1933 book *Game Management*, Aldo Leopold dedicated a chapter to wildlife diseases, stating that wildlife disease is primarily an ecological issue driven largely by human actions. Do you agree with this perspective? Explain your reasoning, using at least two examples from wildlife disease systems to support your answer.                                          (6 points)
+
+In many cases, human interactions can alter the impacts of a wildlife disease. In cases like the Saiga antelope, the disease is not caused by humans, but adding other human threats to the pressure of these MMEs can cause stress on the population and make it harder for them to recover. Another case of humans influencing wildlife disease is white nose syndrome in bats. Which is an epizootic disease believed to be introduced by humans. Although humans may not always directly affect the wildlife disease dynamic, human interactions often influence severity and recovery.
+
+10\. Define R~0~. Estimate R~0~ for the following scenario. Red flamingo represents an infectious case, and blue are susceptible; an arrow indicates transmission. Explain your findings in the context of real-world utility of R~0~.                                                                         (**10 points**)
+
+R0  is the average number of hosts infected by one case. R0 = 1.5
+
+(0+1+2+3)/4
+
+11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
+
+a) Which year has the highest incidence of turtle fibroma? Make sure you write appropriate unit for the incidence value.  Show your work.                                                    (**5 points**) 
+
+2017: 8/108 = 0.074 cases/turtle-year
+
+b) When is the prevalence lowest? When is the prevalence highest? Write unit for prevalence if applicable.                                                                          (**5 points**) 
+
+\
+Prevalence was highest in 2017: 12/112 = 10.71%
+
+Prevalence was lowest in 2015: 4/133 = 3.0075%
+
+12\. The Dutch harbor seal population is estimated to be around 5400 with \~50% adults. Seals are susceptible to phocine distemper virus (PDV), but an estimated 40% of the adults in this population are immune to PDV by virtue of prior natural infection. How many seals in this population should be vaccinated in order to achieve herd immunity sufficient to prevent an outbreak of PDV in this population if the R0 is estimated to be \~3? Assume that all the adult seals that have survived prior PDV infection are tagged, and hence identifiable.                                             (10 points) 
+
+1 - 1/3 = 0.66 66% should be vaccinated
+
+2700 adults –\> 1,620 susceptible \* 0.66 = 1,069 individuals should be vaccinated
+
+------------------------------------------------------------------------
+
+## Worksheet 3 10/7/2025 
+
+Worksheet 3: Measures of disease frequency: Prevalence and Incidence 
+
+1.  Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points) 
+
+6/12/25        5/51 = 0.098 cases/elk-day 
+
+6/14/25        2/44 = 0.04545 cases/elk-day 
+
+6/15/25        0/42 = 0 cases/elk-day 
+
+2.  What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit \
+    for prevalence. (5 points) 
+
+6/13/25        12/56 = 0.2143    21.43% 
+
+6/16/25         5/56 = 0.08929    8.93% 
+
+3.  On which day is the prevalence same as the incidence (except the units)? (3 points) 
+
+6/10/25          1/56 = 0.018 cases/elk-day  
+
+4.  On which day is the incidence lowest? (3 points) 
+
+6/15/25 and 6/16/25 
