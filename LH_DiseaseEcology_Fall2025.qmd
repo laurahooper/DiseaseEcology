@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## 8/25/2025
+## 8/25/2025 Worksheet 1
 
 ```{r}
 # Function to calculate the area of a circle
@@ -24,7 +24,7 @@ The disease triad showing interaction between host, pathogen, and environment.
 
 ------------------------------------------------------------------------
 
-## 9/15/2025
+## 9/15/2025 Worksheet 2
 
 Worksheet 2: Sample size for disease detection
 
@@ -77,13 +77,13 @@ Prevalence measures the number of infected animals as a proportion of the total 
 
 3\. Match the following                                                                (**6 points**)
 
-1.  Blackhead disease  e. Disease caused by protozoa
-2.  A pathogen invading host tissues  a. Infection
-3.  Brain worm in white-tailed deer  c. Brain worm infection in moose
-4.  β  f. effective contact rate
-5.  Rabbit hemorrhagic disease  d. Disease caused by virus
+1.  Blackhead disease e. Disease caused by protozoa
+2.  A pathogen invading host tissues a. Infection
+3.  Brain worm in white-tailed deer c. Brain worm infection in moose
+4.  β f. effective contact rate
+5.  Rabbit hemorrhagic disease d. Disease caused by virus
 6.  White nose syndrome
-7.  Disease  b. Signs of illness
+7.  Disease b. Signs of illness
 
 4\. Moose can get infected by consuming a gastropod infected with *Parelaphostrongylus tenuis* larvae. Infected moose exhibit clinical signs like weakness, incoordination, circling, paralysis, and eventual death. But moose are unable to propagate the parasite. Such hosts are called [dead end hosts]{.underline}.        (**2 points**)
 
@@ -109,7 +109,7 @@ d\) Calculate R~eff~ for a measles outbreak in a population with 80% measles va
 
 6\. For any transmissible disease, which of the following host states are possible? (**6 points**)
 
-1.   Infected but not diseased
+1.  Infected but not diseased
 
 When a host is infected but not diseased, it is a carrier. An example of this is tuberculosis in humans.
 
@@ -164,7 +164,7 @@ Prevalence was lowest in 2015: 4/133 = 3.0075%
 
 ------------------------------------------------------------------------
 
-## Worksheet 3 10/7/2025 
+## 10/7/2025 Worksheet 3
 
 Worksheet 3: Measures of disease frequency: Prevalence and Incidence 
 
@@ -190,3 +190,34 @@ Worksheet 3: Measures of disease frequency: Prevalence and Incidence 
 4.  On which day is the incidence lowest? (3 points) 
 
 6/15/25 and 6/16/25 
+
+------------------------------------------------------------------------
+
+## 10/23/2025 Worksheet 4
+
+1.  MERS-CoV is primarily maintained in human populations. (3 points)
+
+    Incorrect, it is maintained in camels and invades humans but cannot be sustained.
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (3 points)
+
+    Correct
+
+3.  Humans are dead-end hosts for MERS-CoV. (3 points)
+
+    Incorrect, there is some transmission between humans
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately\
+    65%. (3 points)
+
+    Incorrect, 35% case fatality rate
+
+5.  The epidemic curve shows a point source outbreak. (3 points)
+
+    Incorrect, there are multiple peaks
+
+6.  Global MERS cases have declined sharply since 2019. Why do you think this\
+    decline occurred? Discuss possible ecological, epidemiological, and behavioral\
+    factors that may have contributed to this trend. (5 points)
+
+Ecological shifts could cause a shift in the animal reservoir for MERS-CoV, potentially reducing spillover. Epidemiologically, increased awareness, detection, and isolation could contribute to a reduction in healthcare associated outbreaks. Most notably, there were many behavioral changes due to COVID 19 that could have contributed to a decline, for example, wearing masks.
