@@ -221,3 +221,18 @@ Worksheet 3: Measures of disease frequency: Prevalence and Incidence 
     factors that may have contributed to this trend. (5 points)
 
 Ecological shifts could cause a shift in the animal reservoir for MERS-CoV, potentially reducing spillover. Epidemiologically, increased awareness, detection, and isolation could contribute to a reduction in healthcare associated outbreaks. Most notably, there were many behavioral changes due to COVID 19 that could have contributed to a decline, for example, wearing masks.
+
+------------------------------------------------------------------------
+
+11/3/2025 Worksheet 5
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen,\
+    would you classify this Marburg virus outbreak as a spillover event or an emerging\
+    infectious disease? Justify your classification. 5 points
+
+    This would be classified as an emerging infectious disease. The between species rate is low, in this case, a single transmission event. The disease is sustained in H2, humans, in hospital settings.
+
+2.  What measures could be implemented to reduce the risk of transmission in both\
+    community and healthcare settings? 5 points
+
+    Early detection and rapid isolation are the most effective strategies for reducing the risk of transmission. Community education helps people recognize symptoms, seek care quickly, and use safe caregiving practices. Clear communication and local engagement build trust, which encourages early reporting and supports containment efforts in both community and healthcare settings.
