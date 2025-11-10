@@ -236,3 +236,9 @@ Ecological shifts could cause a shift in the animal reservoir for MERS-CoV, pote
     community and healthcare settings? 5 points
 
     Early detection and rapid isolation are the most effective strategies for reducing the risk of transmission. Community education helps people recognize symptoms, seek care quickly, and use safe caregiving practices. Clear communication and local engagement build trust, which encourages early reporting and supports containment efforts in both community and healthcare settings.
+
+------------------------------------------------------------------------
+
+## 11/10/2025 Worksheet 6
+
+The prevalence for pond 1 is 30.0% (14.0 - 52.5; 95% C.L.). The prevalence for pond 2 is 6.7% (0.3 - 30.2; 95% C.L.). The prevalence for pond 1 was not significantly different than pond 2 (p = 0.1987).\
