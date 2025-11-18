@@ -242,3 +242,22 @@ Ecological shifts could cause a shift in the animal reservoir for MERS-CoV, pote
 ## 11/10/2025 Worksheet 6
 
 The prevalence for pond 1 is 30.0% (14.0 - 52.5; 95% C.L.). The prevalence for pond 2 is 6.7% (0.3 - 30.2; 95% C.L.). The prevalence for pond 1 was not significantly different than pond 2 (p = 0.1987).\
+
+------------------------------------------------------------------------
+
+## 11/16/2025 Worksheet 7
+
+Nipah Virus\
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting. 8 points
+
+In Malaysia, Nipah virus is transmitted from bats to pigs to humans. In Bangladesh, Nipah virus is transmitted from bats to humans through date palms. Preventative measures focus on blocking the specific pathways which differ between regions. In Malaysia, managing pig farms and pig health is the best way to prevent spillover. In Bangladesh, pigs are not involved in the mode of transmission. Avoiding raw sap and preventing bats from reaching palm sap are the best ways to manage spillover.
+
+Avian Reovirus\
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population. 6 points\
+
+ARV is transmitted from contaminated feed or water to chickens as vertical transmission. It is transmitted from chicken to chicken through horizontal transmission. Environmental factors like poor hygiene and overcrowding increase transmission. ARVs non enveloped capsid allows for increased vertical transmission as the virus can survive for longer periods of time in the environment. ARV outbreaks have occurred in wild turkey populations. This can cause lameness and decreased ability to escape predation leading to declines in local populations.
+
+Langya henipavirus\
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? 6 points
+
+The likey resovior for LayV is shrews and the virus is spread through direct or indirect contact with infected animals. Human to human transmission has not been confirmed, therefore, this cannot be an EID. It is classified as a spillover because transmission is from animal to human.
