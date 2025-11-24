@@ -271,3 +271,49 @@ The prevalence of B. procyonis in the central region is 64.3% (37.1 - 84.7; 95% 
 The overall prevalence of B. procyonis is 64.9% (48.6 - 78.6; 95% C.I.) in females and 37.7% (26.7 - 50.0; 95% C.L.) in males.
 
 In the central region, the prevalence of B. procyonis is 100.0% (50.0 - 100.0; 95% C.L.) and 37.5% (11.1 - 71.1) in males. . There was no significant difference between males and females in the central region (p = 0.0754). In the north, the prevalence of B. procyonis is 22.2% (10.2 - 41.5; 95% C.L.) in males and 35.0% (16.7 - 57.6; 95% C.L) in females. There was no significant difference between males and females in the north (p = 0.5107). In the south, the prevalence of B. procyonis is 100.0% (50.0 - 100.0; 95% C.L.) and 48.8% (31.0 - 66.4; 05% C.L.) in males. There was a significant difference between males and females in the south (p = 0.0032).
+
+------------------------------------------------------------------------
+
+## 11/24/2025 Term Paper
+
+To the New York Department of Health,
+
+In 2022, the Mpox epidemic reached the United States, with New York experiencing one of the highest case counts (CDC, 2025). Understanding the characteristics, transmission, and presentation of the virus is essential in providing actionable recommendations in order to help reduce and prevent future outbreaks
+
+**Mpox Virus**
+
+Mpox disease is caused by the Monkeypox virus (MPXV), which is a double stranded DNA virus similar to smallpox (Moore et al., 2023). However, unlike smallpox, Mpox can persist outside of human hosts in natural wildlife reservoirs. Although mice, rats, squirrels, and pigs can maintain the virus in nature, non-human primates are the primary concern for human exposure (Moore et al., 2023). Mpox is a zoonotic pathogen and can spread both from animals to humans and between humans.
+
+**Transmission of the disease** 
+
+Since Mpox is a zoonotic disease, it can be transmitted from animals to humans, allowing for spillover through non-human primates, like monkeys. This can occur through bites, scratches, or other contact with fluids from an infected host (Moore et al., 2023). This initial transmission route allows the virus to move out of the reservoir species and into the human population which sustains outbreaks outside of endemic regions. 
+
+Once Mpox has been introduced to the human population, the disease can spread through direct human to human contact through respiratory drops and contact with lesions (Moore et al., 2023). This human to human pathway is the main concern for Mpox outbreaks in the United States. 
+
+Historically, outbreaks have been endemic to Central and West Africa where spillover events can occur from Mpox in natural reservoirs (CDC, 2025). The disease was rarely reported outside of Africa until an outbreak in 2022 where a spillover event led to sustained human to human transmission. Eventually through human travel, Mpox was spread to multiple countries, including the United States (CDC, 2025).  
+
+In 2022, the first and largest Mpox outbreak in the United States occurred in New York State (CDC, 2025). Due to New York’s high volume of international travel and dense, urban population, it is at increased risk for emerging infectious diseases like Mpox. 
+
+**Clinical Presentation** 
+
+Mpox infection occurs when a susceptible individual is exposed to the virus by an infected individual. The incubation period of Mpox is 7 to 14 days but can extend up to 21 days (Moore et al., 2023). This is the time between exposure and onset of symptoms where the individual is not yet contagious. This means that the pathogen is present in the host but not transmittable. Symptoms of the prodromal phase include fever, fatigue, headache, and swollen lymph nodes (CDC, 2024). Individuals may be contagious during this phase once the virus has entered the bloodstream, but transmission is more likely after the appearance of the characteristic rash and lesions caused by the virus. Mpox infections typically resolve within 2 to 4 weeks but can last longer and be more severe in immunocompromised individuals (Moore et al., 2023). Understanding these periods is critical for isolation, contact tracing, and preventing transmission of the disease. 
+
+**Recommendations** 
+
+Disease surveillance is essential in non-endemic areas like the United States. In endemic regions of Africa Mpox outbreaks are spillover events, while in the United States Mpox is considered an emerging infectious disease. This is important because methods for preventing disease are different in endemic and non-endemic regions. Understanding this distinction is critical for implementing targeted surveillance, vaccination, and outbreak control measures in the human to human route transmission route.  
+
+Spillover events can only occur in areas where there is a natural reservoir, and the disease can be transmitted from animal to human. Since Mpox is naturally maintained in animals in Central and West Africa, this is not a risk for the United States. The main risk is human to human transmission from travelers returning from the endemic region. Vaccination requirements of travelers will greatly reduce the risk of introduction and subsequent spread through this pathway. However, if the virus does enter the region, multiple strategies can help control transmission, including public education, case management, and infection control in healthcare environments. 
+
+Increased education for more vulnerable groups has the potential to greatly reduce transmission of Mpox in non-endemic regions such as New York. During the most recent outbreak, the virus was primarily spread through sexual contact within specific male populations (Moore et al., 2023). Targeted education to these groups can raise awareness of risk factors and encourage early symptom recognition. This promotes safe practices that will reduce transmission.   
+
+In addition to human travel, there is a potential risk that an imported animal could carry the virus into the region. This can be controlled by monitoring and regulating all imported animals from Central and West Africa. 
+
+Understanding host-pathogen interactions, spillover dynamics, and the role of wildlife reservoirs can help predict and prevent future Mpox emergence in non-endemic regions. By combining targeted surveillance, education, vaccination, and infection control, New York can reduce the risk of both imported cases and sustained human-to-human transmission. 
+
+References 
+
+Centers for Disease Control and Prevention. 2024. Signs and symptoms of Monkeypox. Centers for Disease Control and Prevention. <https://www.cdc.gov/monkeypox/signs-symptoms/index.html> 
+
+Centers for Disease Control and Prevention. 2025. Clade II monkeypox outbreaks around the world. Centers for Disease Control and Prevention. <https://www.cdc.gov/monkeypox/outbreaks/2022/index-1.html> 
+
+Moore, M. J., Rathish, B., & Zahra, F. 2023. Mpox (monkeypox). StatPearls. <https://www.ncbi.nlm.nih.gov/books/NBK574519/>  
