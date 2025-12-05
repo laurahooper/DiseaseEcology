@@ -29,17 +29,20 @@ The disease triad showing interaction between host, pathogen, and environment.
 Worksheet 2: Sample size for disease detection
 
 1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence in 95%. n=59
+
 2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
     -   95% confidence in detecting a disease at 1% prevalence in a large population n=299
 
     -   99% confidence in detecting a disease at 2% prevalence in a large population n=228
 
         A disease with lower prevalence will require a higher sample size than a disease with higher prevalence, even with the increased CI.
+
 3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \< 1%.
 
-------------------------------------------------------------------------
+    ------------------------------------------------------------------------
 
-## Midterm 10/7/2025
+## 10/7/2025 Midterm
 
 FORY 7200
 
@@ -337,12 +340,14 @@ Moore, M. J., Rathish, B., & Zahra, F. 2023. Mpox (monkeypox). StatPearls. <http
     The fungal infection deters grazing insects and reduces damage from herbivore.
 
     \
-    b. What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems? 4 points
+
+    b.  What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems? 4 points
 
     The severity of fescue toxicosis is is much higher in dry, warmer temperatures especially with drought stress increasing alkaloid production. The microbial community of the soil affects endophyte activity and therfore effects fescue toxicosis. Lastly, grazing management also influences the accumulation of the toxin and disease risk.
 
     \
-    c. What are the key clinical signs of fescue toxicity in cattle? 3 points
+
+    c.  What are the key clinical signs of fescue toxicity in cattle? 3 points
 
     Cattle experience weight loss, decreased feed intake and efficiency, poor growth, and change in core temperature.
 
@@ -361,3 +366,169 @@ Moore, M. J., Rathish, B., & Zahra, F. 2023. Mpox (monkeypox). StatPearls. <http
 3.  Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD) 10 points
 
     SFD fungal spores are persistent in the soil where snakes are consistency exposed and eliminating this exposure is not a feasible option. Snakes are also a difficult animal to monitor due to their behaviors and diagnostic testing is inconsistent. PCR is still developing are there are false negatives using the current method. Since disease surveillance is such an important step in disease management, these challenges make it difficult to move forward in SFD control and management.
+
+    ------------------------------------------------------------------------
+
+# 12/5/2025 Final Exam
+
+December 3, 2025\
+FOWS 7200\
+Disease Ecology Final
+
+**1. True or False. If false, explain why the statement is incorrect (10 points)**
+
+**\
+a. Per the community–epidemiology continuum proposed by Fenton and Pedersen (2005), a disease caused by a pathogen with high between-species transmission and no within–target species transmission will be termed a spillover.**
+
+False, there would be low between species transmission and no within target species transmission.
+
+**\
+b. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious.**
+
+False, it is infectious but not contagious. A contagious disease is transmitted from infected host to a susceptible host by host to host contact.
+
+\
+**c. The eggs of Baylisascaris procyonis can be transmitted to humans by direct contact immediately after excretion by an infected raccoon.**
+
+False, the eggs must be ingested by humans
+
+\
+**d. A fungus growing on tall fescue leaves is responsible for decreased feed intake in cattle grazing on this grass, resulting in reduced weight gain and lower milk production.**
+
+True
+
+\
+**e. Northern cardinals are considered superspreaders species for West Nile virus.**
+
+False, the american robin is considered the superspreader species in North America.
+
+**2. List the community-based interventions used for preventing dracunculiasis transmission in endemic regions. Explain how each intervention interrupts specific stages of the Guinea worm life cycle. How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections? (10 points)**
+
+There is no vaccination or treatment which makes community based intervention essential in preventing transmission of th disease. The largest intervention is targeting contaminated water sources by providing water filters and chemical treatments. This is effective because the larval stage of the life cycle occurs in copopods that live in water sources. Humans are required as the definitive host for the worm to reproduce. Therfore, if the worm is prevented from reaching the human host, due to water treatment or filtration, it will not be able to reproduce.
+
+Another way to break the transmission cycle is preventing the larvae from entering water sources. This happens when infected human hosts use water to sooth the burning pain caused by the worm. When this happens the worm releases its eggs into the water. Education programs and better patient treatment programs prevent infected patients from contaminating water sources.
+
+This transmission cycle must be broken for over a year, due to the length of the life cycle, to eradicate the disease. However, in 2015 there was a rise in cases due to infections in dogs. Since dogs are free roaming it is extremely difficult to prevent them from contaminating water sources and makes eradication much more difficult.
+
+**3. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of\
+the most significant wildlife conservation challenges in North America. What are the\
+main obstacles wildlife agencies face in managing and controlling CWD? (10 points)**
+
+There is no vaccination or treatment for CWD. However, the main challenge for controlling CWD lis the detection of the disease. CWD has a long incubation period, up to 5 years, where infected animals can spread the disease without showing any clinical symptoms. This makes controlling the spread of CWD very difficult because infectious animals cannot be detected. This means that by the time the disease is detected in an environment, it is most likely already established making it difficult to eliminate, even if there was a treatment.
+
+**4. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with Mycobacterium leprae. During the follow-up period, monthly assessments documented the following counts of infected animals in the population:\
+• March 2025: 3 infected\
+• April 2025: 5 infected\
+• May 2025: 5 infected\
+• June 2025: 8 infected\
+• July 2025: 13 infected\
+(No deaths, births, immigration, or recovery occurred during the study.)**
+
+**\
+a. Calculate the monthly incidence of M. leprae infection. Show your calculations and state the units. (5 points)**
+
+March incidence: 3/60 0.050 cases/armadillo-month
+
+April incidence: 2/57 0.035 cases/armadillo-month
+
+May incidence: 0/52 0 cases/armadillo-month
+
+June incidence: 3/47 0.064 cases/armadillo-month
+
+July incidence: 5/39 0.128 cases/armadillo-month
+
+**\
+b. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units. (5 points)**
+
+July had the highest prevalence and March had the lowest prevalence.
+
+March: 3/60 0.05 5%
+
+April & May: 5/60 0.083 8.3%
+
+June: 8/60 0.133 13.3%
+
+July: 13/60 0.217 21.7%
+
+**5. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia.**
+
+**\
+a. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (2 points)**
+
+Tularemia is caused by *Francisella tularensis* subspecies *holartica*.
+
+**\
+b. What are the different routes of transmission for this agent? (2 points)**
+
+Tularemia is a vector borne disease transmitted by ticks and flies. It can also be transmitted through direct contact from handling infected animals, . inhalation through contaminated aerosols, and ingestion of contaminated water or meat.
+
+**\
+c. Describe key features/characteristics of this pathogen in the context of human health/public health. (3 points)**
+
+Humans are a dead end host, so that pathogen cannot be spread from human to human. However, the pathogen can persist in the environment for weeks and has a very low infectious dose. This makes recognition and immediate treatment extremely important. But unlike other diseases, there is no human to human transmission risk so there is no risk of healthcare associated cases in hospital settings. Prevention should be focused on the environmental side of the disease transmission cycle.
+
+**6. Match the following (5 points)\
+**  1. Powassan encephalitis c. Tick-transmitted viral disease\
+2. Ophidiomyces ophiodiicola a. Fungal pathogen of conservation concern \
+3. Borrelia burgdorferi e. Bell’s palsy, Bulls-eye rash \
+4. Aetokthonotoxin b. Avian Vacuolar Myelinopathy \
+5. Pseudogymnoascus destructans \
+6. African Swine Fever d. Foreign Animal Disease
+
+**7. Refer to the life cycle of blacklegged tick to answer 7a – 7d. (8 points)**
+
+**a. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are:** nymph **and** adult**.\
+b. Preferred hosts of the larval stage of Ixodes scapularis are:** white footed mice **and** chipmunks**.\
+c. Lyme disease risk posed by host-seeking nymphs of I. scapularis is greatest during** summer **(season/months) while Lyme disease risk posed by host-seeking adults is greatest during** fall **(season/months).\
+d. The natural reservoir and competent hosts of Borrelia burgdorferi in North America:** white footed mice**. White-tailed deer are the** reproductive host **in the Lyme disease system.**
+
+**8. Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s white-tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance. (10 points)**
+
+One of the main concerns with this approach is the sampling method where the samples may not be representative of the population. Since the deer were harvested by hunters, the deer killed were not random and subject to hunter bias such as age or sex. Hunters will typically select for larger deer but one of the clinical signs of CWD is weight loss. This could cause an underestimation of prevalence.
+
+**9. Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (10 points)**
+
+**\
+a. SARS-CoV-2**
+
+Case 4: Potential EID (top left). SARS-CoV-2 has very high within species transmission in humans (H2) but very low between species transmission. The disease can be transmitted from animal (H1) to human (H2) in very rare occasions but the disease spreads through the within species transmission route.
+
+**\
+b. Hantavirus Pulmonary Syndrome**
+
+Case 1: Spillover (bottom left). Hantavirus Pulmonary Syndrome has low within and between species transmission. The disease cannot be transmitted from human to human (H2) and between species transmission, from rodent (H1) to human (H2) is low. **\
+**
+
+**c. Langya Henipavirus**
+
+Case 2: Apparent multihost pathogen (bottom right). Langya Henipavirus has low within species transmission and high between species transmission. There have been no cases of secondary infection, human to human (H2) transmission. Langya Henipavirus is maintained in the reservoir species, shrews, which are silent carriers of the disease. The only human infections occur through between species transmission, shrews (H1) to humans (H2).
+
+**\
+d. Brucellosis**
+
+Case 3: True multihost pathogen (top right). Brucellosis has high within and between species transmission. It is maintained in multipe host species and can be transmitted between them. The disease can be sustained in cattle, bison, and elk populations. Brucellosis can also be transmitted from wild populations to ranch cattle and then further infect humans through contaminated meat.
+
+**\
+e. West Nile virus**
+
+Case 1: Spillover (bottom left) only in the case of humans. West Nile virus has low within and between species transmission. It cannot be transmitted from human to human, H2 transmission. Humans can only be infected by infected mosquitoes which transmit the disease from birds (H1), though transmission rate is still low.
+
+**10. Anisakiasis is the disease caused by infection with the stomach worm Anisakis simplex. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers. (8 points)**
+
+Marine mammals are the definitive host where the adult stage of the worm reaches sexual maturity and reproduces in the stomach. Then the eggs are released through defecation. Crustaceans are the intermediate host where the L3 larvae is developing. Fish and cephalopods are the paratenic host where there is no development but the larvae can be transmitted to marine mammals to further develop. The dead end host in this system is humans because the host can be infected but cannot further transmit the pathogen, and humans are not required for the life cycle.
+
+**11. All infected hosts are diseased. Comment using appropriate examples. (3 points)**
+
+During the incubation period, an individual can be infected for a period of time before developing clinical signs and symptoms. Given an individual is not diseased until there is a decline in health, this is a case where a host is infected but not diseased. An example of this is the long incubation period associated with CWD which creates serious implications for the spread of the disease.
+
+Disease carriers are infected hosts which shows no signs and therefore are not diseased. For example, chronic carriers of *Salmonella* Typhi who do not experience disease symptoms.
+
+Reservoir species can also be infected with a pathogen without being diseased. Many wildlife reservoirs maintain pathogens without exhibiting disease. For example, rodents infected with hantaviruses or birds infected with West Nile virus.
+
+**12. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV? (3 points)**
+
+1 - (1/2.5) = 0.6 60% of the population should be vaccinated
+
+**13. What are some of the main challenges in managing wildlife diseases? Explain using relevant examples. (6 points)**
+
+Disease detection is one of the first steps in managing disease, however, this alone is a big challenge for managing wildlife disease. Free ranging wildlife makes it difficult to monitor individuals as there is no routine handling and heavily depends on opportunistic sampling. Additionally, there are many diseases that may not show any clinical signs, like CWD. Migration and movement of animals also allows the pathogen to easily spread through regions and diseases can have multiple hosts, vectors, and reservoirs.
